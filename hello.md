@@ -30,9 +30,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayeem-bd&" alt="nayeem-bd" /></p>
 <br>
-> A snake game created out of my Github contributions graph
 
-[![Generate SVG image](https://github.com/scriptex/github-contributions-snake/actions/workflows/cron.yml/badge.svg)](https://github.com/scriptex/github-contributions-snake/actions/workflows/cron.yml)
-## Preview
+## Snake eating my contribution graph
 
 <img align="center" width="100%" src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
