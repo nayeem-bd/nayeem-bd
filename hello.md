@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm MD. NIMUZZAMAN</h1>
+<h1 align="center">Hi 👋, I'm Md. Nimuzzaman</h1>
 <h3 align="center">A Competitive Programmer and a web developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayeem-bd&label=Profile%20views&color=0e75b6&style=flat" alt="nayeem-bd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayeem-bd" alt="nayeem-bd" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack development**
 
