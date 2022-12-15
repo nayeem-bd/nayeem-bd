@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayeem-bd&label=Profile%20views&color=0e75b6&style=flat" alt="nayeem-bd" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack development**
-- 👀 I’m interested in Competetive programming,problem solving,web development,cyber security
+- 👀 I’m interested in **Competetive programming,problem solving,web development,cyber security**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/nayeem-bd?tab=repositories">here</a>
 - 📫 How to reach me **nimuzzamanj@gmail.com**
 
