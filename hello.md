@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayeem-bd&label=Profile%20views&color=0e75b6&style=flat" alt="nayeem-bd" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack development**
-
+- 👀 I’m interested in Competetive programming,problem solving,web development,cyber security
 - 📫 How to reach me **nimuzzamanj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
