@@ -29,3 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayeem-bd&show_icons=true&locale=en" alt="nayeem-bd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayeem-bd&" alt="nayeem-bd" /></p>
+<br>
+> A snake game created out of my Github contributions graph
+
+[![Generate SVG image](https://github.com/scriptex/github-contributions-snake/actions/workflows/cron.yml/badge.svg)](https://github.com/scriptex/github-contributions-snake/actions/workflows/cron.yml)
