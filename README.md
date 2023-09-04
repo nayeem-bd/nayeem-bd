@@ -30,7 +30,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayeem-bd&" alt="nayeem-bd" /></p>
 <br>
-
-## Snake eating my contribution graph
-
-![snake animation](https://github.com/nayeem-bd/nayeem-bd/blob/output/github-contribution-grid-snake2.svg)
