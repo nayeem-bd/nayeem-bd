@@ -33,4 +33,4 @@
 
 ## Snake eating my contribution graph
 
-<img align="center" width="100%" src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
+![snake animation](https://github.com/nayeem-bd/nayeem-bd/blob/output/github-contribution-grid-snake2.svg)
